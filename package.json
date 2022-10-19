@@ -211,6 +211,6 @@
     "url": "https://github.com/linagora/openpaas-esn.git"
   },
   "engines": {
-    "node": ">= 10.16.0"
+    "node": "10.16.0"
   }
 }
